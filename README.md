@@ -85,4 +85,3 @@ You can get an API key by signing up on the OpenWeatherMap API website.
 
 ---
 
-These README files are formatted for use in each project. You can modify or expand them based on any specific requirements for the submission or additional project features you may want to highlight. Let me know if you need further customization!
